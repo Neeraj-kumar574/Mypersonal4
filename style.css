@@ -1,0 +1,147 @@
+body{text-align: center;
+background-color: }
+
+.top{height: 200px;}
+
+.ttop{height: 80px;}
+
+.navbar{padding: 10px 170px;}
+
+.nav-link{
+color: black;
+  margin: 20px;
+font-size: 25px;}
+
+.container{
+  background-color: #C2DFFF;
+}
+
+.bottom-body{
+  background-color:#95B9C7;
+  margin-top: 100px;
+}
+/* cloud */
+.top-cloud{position: relative;
+left: 250px;}
+
+.heading{font-family: 'Lobster', cursive;
+font-size: 80px;
+color: #008B8B;}
+
+.hobby{font-size: 20px;
+color: #008B8B;}
+
+.bottom-cloud{position: relative;
+right: 250px;}
+
+.desert{height:400px;}
+
+.middle{padding: 100px 0; }
+
+.crop{padding: 30px 0;
+}
+
+.info{padding-bottom: 30px;
+font-size: 2.50rem;}
+
+.personal{width: 35%;
+margin: auto;
+font-size: 20px;}
+
+hr{border-style: dotted none none;
+padding-top:100px;
+margin-top: 100px;
+border-width:7px;
+width: 10%;}
+
+.neeraj{
+margin: 80px;
+position: relative;
+right: auto;
+}
+
+
+.second-emoji{
+  position: relative;
+  right: auto;
+  margin: 80px;
+}
+
+.ccrop{  position: relative;
+  bottom:  220px;
+  left:  150px;
+}
+
+
+.top-icon{
+  position:relative;
+  top:100px;
+  left: 100px;
+}
+.ptop{
+  width: 60%;
+}
+
+.middle-icon{
+  position: relative;
+  right: 130px;
+  top: 60px;
+}
+
+.endlink{
+  text-decoration: underline;
+}
+
+/* skill */
+p{
+  font-family: 'Lobster', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Cookie', cursive;
+  width:50%;
+  margin: auto;
+  font-size: 1.5rem;
+  color: #800000;
+}
+
+.interest{
+  margin: 30px;
+  font-size: 2rem;
+  color: #728C00;
+}
+
+h4
+{
+  font-size: 1.75rem;
+}
+
+.btn{
+margin: 60px;
+}
+
+.pbottom{
+  width: 60%;
+  position: relative;
+  left: 500px;
+}
+
+.bottom-interest{
+  margin-bottom: 30px;
+}
+
+.bottom{color: #2F4F4F;}
+
+.end{
+  font-size: 15px;
+margin-top: 50px;
+padding-bottom: 10px;
+  text-align: center;
+
+}
+.link{
+  font-size: 20px;
+  margin:10px;
+}
+
+.footer{
+  background-color:#ADD8E6;
+}
